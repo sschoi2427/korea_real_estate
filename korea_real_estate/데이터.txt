@@ -1,0 +1,19 @@
+https://www.wevity.com/?c=find&s=1&sp=name&sw=Ict&gbn=viewok&gp=1&ix=38505
+
+주 데이터 : 공시지가 데이터
+http://rtdown.molit.go.kr/
+
+(보조 데이터 : 주식, 환율 데이터)
+
+서울, 대전, 부산의 2017, 2018, 2019년 데이터를 활용한 주택가격 예측
+
+통계적 분석
+import pandas as pd
+.columns
+.describe()
+
+import seaborn as sns
+sns.distplot()
+시각화 : boxplot, 히트맵(상관관계 분석) 
+
+모델링
